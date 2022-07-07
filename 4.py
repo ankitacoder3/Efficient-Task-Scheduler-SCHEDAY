@@ -5,7 +5,8 @@ import keyboard
 
 #class structure
 class Task:
-    def __init__(self, name, start_date, start_time, finish_date, finish_time, value, capacity, frequency, desired_start_date, desired_start_time, execution_time):
+    def __init__(self, number, name, start_date, start_time, finish_date, finish_time, value, capacity, frequency, desired_start_date, desired_start_time, execution_time):
+        self.number=number
         self.name = name
         self.start_date = start_date
         self.start_time = start_time
@@ -19,7 +20,7 @@ class Task:
         self.execution_time = execution_time
 
     def show(self):
-        print('Task name:',self.name,self.start_date,self.start_time,self.finish_date, self.finish_time, self.desired_start_date, self.desired_start_time, self.capacity, self.value, self.frequency, self.execution_time)
+        print('Task no.:',self.number,'\t Task name:',self.name,'\t Start date:',self.start_date,self.start_time,self.finish_date, self.finish_time, self.desired_start_date, self.desired_start_time, self.capacity, self.value, self.frequency, self.execution_time)
 
 #welcome           
 print("WELCOME to Scheday!")
@@ -45,10 +46,11 @@ def Keyboard():
             t1=wait_Tasks[i]
             t1.show()
             i+=1
- ''' 
+'''
 
   
 def new():
+    #task_number=0
     print("\n__________________________New Task_____________________________\n")
     new_task=input("Enter new task:")
     nt=new_task
@@ -63,7 +65,7 @@ def new():
     capacity=input("Enter capacity:")
     frequency=input("Enter frequency:")
     execution_time=input("Enter execution time:")
-    nt= Task(new_task, start_date, start_time, finish_date, finish_time, value, capacity, frequency, desired_start_date, desired_start_time, execution_time)
+    nt= Task(task_number,new_task, start_date, start_time, finish_date, finish_time, value, capacity, frequency, desired_start_date, desired_start_time, execution_time)
     #task_number+=1
     print("\n____________________New Task Summary___________________________\n")
     nt.show()
