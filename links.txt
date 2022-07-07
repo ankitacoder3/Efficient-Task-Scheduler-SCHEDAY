@@ -16,4 +16,7 @@ https://www.datasciencelearner.com/how-to-implement-scheduler-in-python/
 ->schedule library
 https://www.geeksforgeeks.org/python-schedule-library/
 
+->key press
+https://newbedev.com/python-python-press-keys-code-example
+
 ______________________________________________________________________________________________________________________________
