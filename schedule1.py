@@ -160,7 +160,7 @@ schedule.every().tuesday.at("18:00").do(sudo_placement)
 
 # Loop so that the scheduling task keeps on running all time
 while True:
-    #MENU()
+    MENU()
         
     # Checks whether a scheduled task is pending to run or not
     schedule.run_pending()
