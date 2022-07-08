@@ -26,7 +26,7 @@ class Task:
 
 #welcome           
 print("WELCOME to Scheday!")
-print("Press:- space bar to enter new task;")
+print("<Press space bar to view MENU>")
 
 #Initializing variables 
 wait_Tasks=[]
@@ -55,10 +55,16 @@ L=create_instances(0,1000,L)
 # Functions setup
 
 #menu
-def Keyboard( ):
+def MENU( ):
+
+    #view menu
+    if keyboard.is_pressed(' '):
+        print("\n______________________________MENU_____________________________\n")
+        print("\n PRESS: \n 'n' - to create new task \t 's' - to view pending task summary")
+        print("\n_______________________________________________________________\n")
 
     #new tasks
-    if keyboard.is_pressed(' '):
+    if keyboard.is_pressed('n'):
         job=new( )
         return job
 
@@ -70,6 +76,7 @@ def Keyboard( ):
             x=instances.get(i)
             x.show()
             i+=1
+            print()
         print("\n_______________________________________________________________\n")
 
     
@@ -124,7 +131,7 @@ def day_summary():
 
 
 # Task scheduling
-schedule.every(1).seconds.do(Keyboard)
+schedule.every(1).seconds.do(MENU)
 schedule.every(reschedule_time).seconds.do(reschedule)
 schedule.every(starve_time).seconds.do(no_starve)
 
@@ -153,7 +160,7 @@ schedule.every().tuesday.at("18:00").do(sudo_placement)
 
 # Loop so that the scheduling task keeps on running all time
 while True:
-    #Keyboard()
+    #MENU()
         
     # Checks whether a scheduled task is pending to run or not
     schedule.run_pending()
