@@ -31,16 +31,16 @@ To build an efficient scheduler application which -
 ## Introduction
 * The name of this idea is "Scheday" which stands for 'Scheduler for the day'. (ie, for any day it gives maximum value )
 * The scheduler has the following properties-
-•	New jobs - As and when new jobs are added it is added to a waiting list.
-•	Rescheduling- After a certain time, say 'reschedule time' the scheduler reschedules all the jobs, except the current running job.
+    *	New jobs - As and when new jobs are added it is added to a waiting list.
+    *	Rescheduling- After a certain time, say 'reschedule time' the scheduler reschedules all the jobs, except the current running job.
     That is all jobs in the scheduler plus the jobs in waiting list are rescheduled (with the exception of the current running job).
     This 'reschedule time' can be 5min Or 2min , according to user requirements.
-•	Priority - Based on the desired start time, the job has to be started within 2 hrs of that. Based on this priority is given.
+    *	Priority - Based on the desired start time, the job has to be started within 2 hrs of that. Based on this priority is given.
       While taking care of this completion time is also kept in mind.
-•	Starvation- After a certain amount of time, say 'starve time' the jobs are reviewed.
+    *	Starvation- After a certain amount of time, say 'starve time' the jobs are reviewed.
     In this review,the job that will execute last is rescheduled in between of the jobs before it depending on the desired start time and completion time.
     After every 'starve time' this review occurs. 'starve time' can be say 10min Or 5min , depending on no of tasks etc.
-•	Analysis- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
+    *	Analysis- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
       From this csv Or excel required data is got and analysed by a code, which gives output as basic reports
 
   </br>
@@ -63,8 +63,22 @@ To build an efficient scheduler application which -
   </br>
 
 ## Steps for Execution
-Steps- Inside this repository submitted is a .py file. Run the same on Python SHELL.
-Output - Can be viewed on the SHELL(/command line interface)
+ 1. Clone the ``` 'Scheduler-SCHEDAY' ``` github repository.
+  ```sh 
+  git clone https://github.com/ankitacoder3/Scheduler-SCHEDAY.git 
+  ```
+ 2. Navigate to the ``` 'SCHEDAY' ``` Directory in that.
+  ```sh
+  cd Scheduler-SCHEDAY
+  cd SCHEDAY
+  ```
+  3. Open the ```SCHEDAY.py``` in python idle or terminal.  
+
+  4. Run ``` SCHEDAY.py``` by selecting the ```run option``` in python idle, or by using the command prompt.
+  ```sh
+  python SCHEDAY.py
+  ```
+5. Output can be viewed on the SHELL (for python idle), or command line interface (for command prompt).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
@@ -80,7 +94,7 @@ There are several applications of this in different areas of life, such as-
   
 ## Final outcome 
 The final outcome of scheday is-
-1.The application can be made web compatible.
+1. The application can be made web compatible.
 2. It can deployed on a real time website
   * So that many people can use their time efficiently and productively
   * This website will be easily accessible, feasible, and user-friendly
