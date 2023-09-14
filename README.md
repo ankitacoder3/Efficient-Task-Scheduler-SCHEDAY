@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Scheday
+# Scheduler-SCHEDAY
 
 Scheday is a complex ```scheduler```, implemented using the concepts of classes.
 
