@@ -47,15 +47,15 @@ To build an efficient scheduler application which -
   
 * Features:
   
-    1.	One can dynamically add new tasks
+    *	One can dynamically add new tasks.
   
-     2.	One can view pending task details as a list
+     *	One can view pending task details as a list.
   
-    3.	Tasks can be entered on this
+    *	Tasks can be entered on this.
   
-    4.	At a time thousand tasks can be run
+    *	At a time thousand tasks can be run.
   
-     5.	Tasks can also be executed from a csv wherein it reads each and every task and executes them
+     *	Tasks can also be executed from a csv wherein it reads each and every task and executes them.
   
 
 <p align="right"><a href="#readme-top">back to top</a></p>
