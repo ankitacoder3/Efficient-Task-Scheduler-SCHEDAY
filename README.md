@@ -24,7 +24,7 @@ To build an efficient scheduler application which -
 3.	Starts any task within 2hours of its desired start time.
 4.	Can provide basic statistical and analytical report, such as jobs for day, capacity utilization for day, etc..
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
   </br>
 
 
@@ -52,14 +52,14 @@ To build an efficient scheduler application which -
 4.	At a time thousand tasks can be run
 5.	Tasks can also be executed from a csv wherein it reads each and every task and executes them .
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
   </br>
   
 ## Prerequisites and Techstack
 * Languages used- Python
 * Various languages such as python, c, html, react, etc... can be used to implement scheday
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
   </br>
 
 ## Steps for Execution
@@ -80,7 +80,7 @@ To build an efficient scheduler application which -
   ```
 5. Output can be viewed on the SHELL (for python idle), or command line interface (for command prompt).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
   </br>
   
 ## Usage
@@ -89,7 +89,7 @@ There are several applications of this in different areas of life, such as-
 2.	To schedule events for systems.
 3.	To help people plan and prioritize their work, etc...
 
-   <p align="right">(<a href="#readme-top">back to top</a>)</p>
+   <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
   
 ## Final outcome 
@@ -99,7 +99,7 @@ The final outcome of scheday is-
   * So that many people can use their time efficiently and productively
   * This website will be easily accessible, feasible, and user-friendly
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
   </br>
 
 ## Expansion
@@ -108,5 +108,5 @@ This idea can be expanded in the following ways
 2.	GUI can be added For making it wasy for the user to interpret this application
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
   </br>
