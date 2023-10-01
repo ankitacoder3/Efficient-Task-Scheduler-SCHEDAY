@@ -2,7 +2,7 @@
 
 # Scheduler-SCHEDAY
 
-Scheday is a complex ```scheduler```, implemented using the concepts of classes.
+```Scheday``` is a complex ```scheduler```, implemented using the concepts of classes.
 
 <details>
   <summary color= blue >Table of Contents</summary>
