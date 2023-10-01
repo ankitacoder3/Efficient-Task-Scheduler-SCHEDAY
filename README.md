@@ -45,7 +45,7 @@ To build an efficient scheduler application which -
 
   </br>
   
-  ### Features:
+* Features:
 1.	One can dynamically add new tasks
 2.	One can view pending task details as a list
 3.	Tasks can be entered on this.
