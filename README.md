@@ -76,7 +76,7 @@ To build an efficient scheduler application which -
  2. Navigate to the ``` 'SCHEDAY' ``` Directory in that.
   ```sh
   cd Scheduler-SCHEDAY
-  cd SCHEDAY
+  cd Scheduler_SCHEDAY
   ```
   3. Open the ```SCHEDAY.py``` in python idle or terminal.  
 
