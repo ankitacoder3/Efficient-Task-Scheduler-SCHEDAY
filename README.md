@@ -26,9 +26,10 @@ To build an efficient scheduler application which -
 
 <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
-
+  
 
 ## Introduction
+
 * The name of this idea is "Scheday" which stands for 'Scheduler for the day'. (ie, for any day it gives maximum value )
 * The scheduler has the following properties-
     *	New jobs - As and when new jobs are added it is added to a waiting list.
