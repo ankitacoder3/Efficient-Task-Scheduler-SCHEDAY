@@ -102,7 +102,7 @@ There are several applications of this in different areas of life, such as-
   </br>
 
 ## Screenshots
-Below are few screenshots of the application on Command Prompt:
+Below are few screenshots of the SCHEDAY application:
 </br>
 1.	SCHEDAY STARTING
     <BR>
@@ -111,12 +111,46 @@ Below are few screenshots of the application on Command Prompt:
 
   	<BR>
       b. With user-defined inputs
-      ![Image_1b](./SCHEDAY/Screenshots/Image_1b.png)
+      
+    ![Image_1b](./SCHEDAY/Screenshots/Image_1b.png)
 
-3.	SCHEDAY MENU
-   ![Image_3](./SCHEDAY/Screenshots/Image_3.png)
-5.	SCHEDAY QUITING
+2.	SCHEDAY MENU
+   ![Image_3](./SCHEDAY/Screenshots/Image_2.png)
+  	
+3.	NEW TASK
+    <BR>
+      a. With default inputs
+  	![Image_3a](./SCHEDAY/Screenshots/Image_3a.png)
+
+  	<BR>
+      b. With user-defined inputs
+      
+    ![Image_3b](./SCHEDAY/Screenshots/Image_3b.png)
+
+   <BR>
+      c. With hybrid input
+      
+  ![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
+  	
+4.	PENDING TASK SUMMARY
+    <BR>
+      a. With default inputs
+  	![Image_4a](./SCHEDAY/Screenshots/Image_4a.png)
+  	
+5.	TASK DELETION
+  	![Image_5](./SCHEDAY/Screenshots/Image_5.png)
+   
+6.	EXITING SCHEDAY
    ![Image_6](./SCHEDAY/Screenshots/Image_6.png)
+
+7.	TASK RESCHEDULING
+   ![Image_r1](./SCHEDAY/Screenshots/Image_r1.png)
+
+</br>
+
+Other screenschots can be found in the ****"./SCHEDAY/Screenshots/"**** folder.
+</br>
+
 
    <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
