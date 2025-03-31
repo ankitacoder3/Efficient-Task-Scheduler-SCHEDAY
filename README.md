@@ -104,8 +104,8 @@ There are several applications of this in different areas of life, such as-
 ## Screenshots
 Below are few screenshots of the application on Command Prompt:
 </br>
-1.	SCHEDAY STARTING
-      a. With default inputs
+1.	SCHEDAY STARTING <BR>
+      a. With default inputs <BR>
       b. With user-defined inputs
 
 2.	SCHEDAY MENU
