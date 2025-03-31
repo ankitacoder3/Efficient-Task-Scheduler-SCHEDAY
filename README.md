@@ -104,12 +104,19 @@ There are several applications of this in different areas of life, such as-
 ## Screenshots
 Below are few screenshots of the application on Command Prompt:
 </br>
-1.	SCHEDAY STARTING <BR>
-      a. With default inputs <BR>
-      b. With user-defined inputs
+1.	SCHEDAY STARTING
+    <BR>
+      a. With default inputs
+  	![Image_1a](./SCHEDAY/Screenshots/Image_1a.png)
 
-2.	SCHEDAY MENU
-3.	SCHEDAY QUITING
+  	<BR>
+      b. With user-defined inputs
+      ![Image_1b](./SCHEDAY/Screenshots/Image_1b.png)
+
+3.	SCHEDAY MENU
+   ![Image_3](./SCHEDAY/Screenshots/Image_3.png)
+5.	SCHEDAY QUITING
+   ![Image_6](./SCHEDAY/Screenshots/Image_6.png)
 
    <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
