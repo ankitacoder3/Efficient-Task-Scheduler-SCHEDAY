@@ -148,7 +148,7 @@ Below are few screenshots of the SCHEDAY application:
 
 </br>
 
-Other screenschots can be found in the ****"./SCHEDAY/Screenshots/"**** folder.
+Other screenschots can be found in the ```"./SCHEDAY/Screenshots/"``` folder.
 </br>
 
 
