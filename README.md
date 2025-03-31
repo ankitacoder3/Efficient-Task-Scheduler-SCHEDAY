@@ -7,12 +7,14 @@
 <details>
   <summary color= blue >Table of Contents</summary>
   <li> Objective </li>
-<li> Introduction </li>
-<li> Prerequisites and Techstack</li>
-<li> Steps for execution</li>
-<li> Usage</li>
+  <li> Introduction </li>
+  <li> Prerequisites and Techstack</li>
+  <li> Steps for execution</li>
+  <li> Usage</li>
+  <li> Sample Screenshots</li>
   <li> Final Outcome</li>
   <li> Expansion</li>
+  
 </details>
 </br>
 
@@ -95,6 +97,19 @@ There are several applications of this in different areas of life, such as-
 1.	To plan events or activities for any person or customer.
 2.	To schedule events for systems.
 3.	To help people plan and prioritize their work, etc...
+
+   <p align="right"><a href="#readme-top">back to top</a></p>
+  </br>
+
+## Screenshots
+Below are few screenshots of the application on Command Prompt:
+</br>
+1.	SCHEDAY STARTING
+      a. With default inputs
+      b. With user-defined inputs
+
+2.	SCHEDAY MENU
+3.	SCHEDAY QUITING
 
    <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
