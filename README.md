@@ -74,12 +74,12 @@ To build an efficient scheduler application which -
 ## Steps for Execution
  1. Clone the ``` 'Scheduler-SCHEDAY' ``` github repository.
   ```sh 
-  git clone https://github.com/ankitacoder3/Scheduler-SCHEDAY.git 
+  git clone https://github.com/ankitacoder3/Efficient-Task-Scheduler-SCHEDAY.git 
   ```
  2. Navigate to the ``` 'SCHEDAY' ``` Directory in that.
   ```sh
-  cd Scheduler-SCHEDAY
-  cd Scheduler_SCHEDAY
+  cd Efficient-Task-Scheduler-SCHEDAY
+  cd SCHEDAY
   ```
   3. Open the ```SCHEDAY.py``` in python idle or terminal.  
 
