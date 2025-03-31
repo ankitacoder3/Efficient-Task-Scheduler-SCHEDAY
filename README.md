@@ -85,7 +85,7 @@ To build an efficient scheduler application which -
   ```sh
   python SCHEDAY.py
   ```
-5. Output can be viewed on the SHELL (for python idle), or command line interface (for command prompt).
+5. Output can be viewed on the SHELL (for python idle), or COMMAND LINE interface (for command prompt).
 
 <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
