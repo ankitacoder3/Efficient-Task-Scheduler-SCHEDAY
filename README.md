@@ -175,11 +175,11 @@ To build an ```efficient scheduler application``` which -
   5. The ***SCHEDAY*** application can be viewed on the ***COMMAND LINE*** interface.
   6. <b>User Inputs</b> for the ***SCHEDAY*** application are as follows:
 
-		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press <i>'ENTER' KEY</i> or <i>any whole number</i>.
+		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press ***'ENTER' KEY*** or ***enter any whole number***.
 
-		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press ***'ENTER' KEY*** or ***any whole number***.
+		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press ***'ENTER' KEY*** or ***enter any whole number***.
 
-        iii. Follow the ```***SCHEDAY MENU***``` to <i>create, view and delete TASKS</i>; By entering the corresponding ***option*** for each in the ```"Your choice:" ```input.
+        iii. Follow the ```***SCHEDAY MENU***``` to <i>create, view and delete TASKS</i>; By ***entering the corresponding option*** for each in the ```"Your choice:" ```input.
 
 		iv. In ```"New Task Creation" panel or section```, for each field either press the 'ENTER' KEY or input the <i> desired Value</i> in the same 'FORMAT' as shown by 'DEFAULT INPUT'.
 
