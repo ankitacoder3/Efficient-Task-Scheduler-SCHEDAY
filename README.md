@@ -131,14 +131,18 @@ To build an ```efficient scheduler application``` which -
 
 <br>
  1. Clone the ``` 'Efficient-Task-Scheduler-SCHEDAY' ``` github repository.
+ 
   ```sh 
   git clone https://github.com/ankitacoder3/Efficient-Task-Scheduler-SCHEDAY.git 
   ```
+
  2. Navigate to the ``` 'SCHEDAY' ``` Directory in that.
+    
   ```sh
   cd Efficient-Task-Scheduler-SCHEDAY
   cd SCHEDAY
   ```
+
   3. Open the ```SCHEDAY.py``` in any code editor (say, VS Code). 
   <br>
 
@@ -206,7 +210,7 @@ There are several applications of this in different areas of life, such as-
    <BR>
       c. With hybrid input
       
-    ![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
+![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
   	
 4.	PENDING TASK SUMMARY
     <BR>
