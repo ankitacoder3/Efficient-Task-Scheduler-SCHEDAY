@@ -119,12 +119,33 @@ To build an ```efficient scheduler application``` which -
   </br>
 
 
+  
+<a name="a2"></a>
 ## Prerequisites and Techstack
-* Languages used- Python
-* Various languages such as python, c, html, react, etc... can be used to implement scheday
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<br>
+    
+  * Language :
+
+    **Python**
+
+<br>
+
+  * Libraries :
+
+
+    * schedule
+    * time
+    * sys
+
+<br>
+
+ * Alternative Languages :
+				* Various languages such as python, c, html, react, etc... can be used to implement scheday
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
+  
+  
 
 <a name="a3"></a> 
 ## Steps for Execution
