@@ -58,9 +58,9 @@
 ### <b>Files :</b> 
 The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following files:
   
-  -  ```'SCHEDAY.py' File```- contains the ***'SCHEDAY' Application*** code.
+  -  ```'SCHEDAY.py' File```- contains the ***'SCHEDAY' application*** code.
     
-  - ```'Screenshots' Directory```- contains ***Screenshots on various tasks*** from the SCHEDAY Application.
+  - ```'Screenshots' Directory```- contains ***Screenshots on various tasks*** from the SCHEDAY application.
 </br>
 
 ### <b>Repository Structure :</b> 
@@ -147,11 +147,11 @@ To build an ```efficient scheduler application``` which -
   3. Open the ```SCHEDAY.py``` in any code editor (say, ***VS Code***). 
   <br>
 
-  4. Run ``` SCHEDAY.py``` from the ***Command Prompt*** or the ***Terminal***.
+  4. Run ```SCHEDAY.py``` from the ***Command Prompt*** or the ***Terminal***.
   ```sh
   python SCHEDAY.py
   ```
-  5. The ***SCHEDAY*** application can be viewed on the COMMAND LINE interface.
+  5. The ***SCHEDAY*** application can be viewed on the ***COMMAND LINE*** interface.
   6. <b>User Inputs</b> for the ***SCHEDAY*** application are as follows:
 
 		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press 'ENTER' KEY or any whole number.
@@ -164,9 +164,9 @@ To build an ```efficient scheduler application``` which -
 
 		v. In ```"Task Deletion" panel or section```, for "Enter the Task Number you want to delete (enter any whole no.):", enter any whole number for Task No. .
 
-  8. To view sample ***Screenshots*** of the ***SCHEDAY*** Application, navigate to the ***"Screenshots" Directory*** and open any Image there. (For description of screenshots, <a href="#a5">click here</a>.) 
+  7. To view sample ***Screenshots*** of the ***SCHEDAY*** application, navigate to the ***"Screenshots" Directory*** and open any <b>Image</b> there. (For description of screenshots, <a href="#a5">click here</a>.) 
 
-  * Note: 'SCHEDAY.py' can also be run from the <i>python idle</i> by selecting the 'run module' option, and output can be viewed in the IDLE SHELL.
+  * Note: 'SCHEDAY.py' can also be run from the <i>python idle</i> by selecting the 'run module' option, and output can be viewed in the <i>IDLE SHELL</i>.
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
@@ -182,9 +182,8 @@ There are several applications of this in different areas of life, such as-
 
    <a name="a5"></a> 
 ## Screenshots
-S
+
   * Below are few screenshots of the ***SCHEDAY*** application:
-</br>
 
 1.	SCHEDAY STARTING
    
@@ -222,9 +221,7 @@ S
 8.	TASK RESCHEDULING
         ![Image_r1](./SCHEDAY/Screenshots/Image_r1.png)
 
-
-  * Other screenschots can be found in the ```"./SCHEDAY/Screenshots/"``` folder.
-  * & Much More...
+  * Other screenshots, and all the above screenshots can be found in the ```"./SCHEDAY/Screenshots/"``` folder.
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
