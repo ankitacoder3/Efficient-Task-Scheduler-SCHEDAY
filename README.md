@@ -1,37 +1,27 @@
 <a name="readme-top"></a>
-
-# Scheduler-SCHEDAY
+# Efficient-Task-Scheduler-SCHEDAY
 
 ```Scheday``` is a complex ```scheduler```, implemented using the concepts of classes.
 
-<details>
-  <summary color= blue >Table of Contents</summary>
+<br>
+
+<details open>
+
+  <summary style="color: red;">Table of Contents</summary>
+<li> <a href="#a1">Introduction</a></li>
+<li> <a href="#a2"> Prerequisites and Techstack</a></li>
+<li> <a href="#a3"> Steps for Execution </a></li>
+<li> <a href="#a5">Screenshots</a></li>
+<li> <a href="#a4">Usage</a></li>
   <li> Objective </li>
-  <li> Introduction </li>
-  <li> Prerequisites and Techstack</li>
-  <li> Steps for execution</li>
-  <li> Usage</li>
-  <li> Sample Screenshots</li>
   <li> Final Outcome</li>
   <li> Expansion</li>
-  
+<a href="#end"><u><i>Skip to END...</i></u></a>
 </details>
 </br>
 
-
-## Objective
-To build an efficient scheduler application which -
-1.	Can accomodate new tasks
-2.	Has no job starvation
-3.	Starts any task within 2hours of its desired start time.
-4.	Can provide basic statistical and analytical report, such as jobs for day, capacity utilization for day, etc..
-
-<p align="right"><a href="#readme-top">back to top</a></p>
-  </br>
-  
-
+<a name="a1"></a>
 ## Introduction
-
 * The name of this idea is "Scheday" which stands for 'Scheduler for the day'. (ie, for any day it gives maximum value )
 * The scheduler has the following properties-
     *	New jobs - As and when new jobs are added it is added to a waiting list.
@@ -45,14 +35,15 @@ To build an efficient scheduler application which -
     After every 'starve time' this review occurs. 'starve time' can be say 10min Or 5min , depending on no of tasks etc.
     *	Analysis- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
       From this csv Or excel required data is got and analysed by a code, which gives output as basic reports
-
   </br>
+
+
+
   
 * Features:
   
     *	One can dynamically add new tasks.
-  
-     *	One can view pending task details as a list.
+ *	One can view pending task details as a list.
   
     *	Tasks can be entered on this.
   
@@ -61,9 +52,98 @@ To build an efficient scheduler application which -
      *	Tasks can also be executed from a csv wherein it reads each and every task and executes them.
   
 
-<p align="right"><a href="#readme-top">back to top</a></p>
-  </br>
+</br>
+
+
+### <b>Files :</b> {check}
+The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following files:
   
+  - 1- ```'SCHEDAY.py'  File``- contains the SCHEDAY Application code.
+    
+  - 2- ```'Screenshots' Directory```- contains Screenshots on various tasks from the SCHEDAY Application.
+</br>
+
+<!--
+## Objective {Pending}
+To build an efficient scheduler application which -
+1.	Can accomodate new tasks
+2.	Has no job starvation
+3.	Starts any task within 2hours of its desired start time.
+4.	Can provide basic statistical and analytical report, such as jobs for day, capacity utilization for day, etc..
+
+  -->
+
+</br>
+
+### <b>Repository Structure :</b> {ch}
+
+<details>
+  <summary color= blue ><u><b><i>Efficient-Task-Scheduler-SCHEDAY repo structure</i></b> click...</u></summary>
+
+  Below is the structure of the ```Efficient-Task-Scheduler-SCHEDAY``` project repository
+  
+  ```plaintext
+    Efficient-Task-Scheduler-SCHEDAY/
+    │   
+    ├── SCHEDAY/           # Project Folder
+    │   │              
+    │   ├── SCHEDAY.py              # Application
+    │   │     
+    │   │ 
+    │   ├── Screenshots/            # Screenshots-Folder              # 
+    │   │    ├── Image_1a.png
+    │   │    ├── Image_1b.png
+    │   │    ├── Image_2.png
+    │   │    ├── Image_3a.png
+    │   │    ├── Image_3b.png
+    │   │    ├── Image_3c.png
+    │   │    ├── Image_4a.png
+    │   │    ├── Image_4c.png
+    │   │    ├── Image_5.png
+    │   │    ├── Image_6.png
+    │   │    ├── Image_r1.png
+    │   │    ├── Image_r2.png     
+    │   │    └── # 
+    │   │ 
+    │   └── #
+    │   
+    └─── README.md           # Repository README
+    
+  ```
+
+</details>
+</br>
+
+
+
+### <b>Underlying concepts / theory :</b> {check}
+
+  1.  **Inclusion of Image Processing Techniques**
+     
+      The project ```IMG-IMPACT``` involves the implementation of ```Image Processing Techniques```.
+
+  2.  **Manipulation of Images and Extraction of Insights**
+
+      Image processing entails the ```manipulation of images```to extract ```useful insights``` from them.
+
+  3.  **Representation of Images as Grids of Pixels**
+
+      Images can be represented as a ```grid of n x n small pieces```, which are called ```pixels```.
+
+  4.  **Numerical Representation of Image Pixels**
+ 
+      If we can ```assign numbers to each colour```, then, the grid of pixels can be represented as a ```numerical matrix```.
+    
+ ###
+###
+
+###
+###
+
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
+  </br>
+
+
 ## Prerequisites and Techstack
 * Languages used- Python
 * Various languages such as python, c, html, react, etc... can be used to implement scheday
