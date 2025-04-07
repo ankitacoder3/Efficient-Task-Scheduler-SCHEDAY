@@ -185,21 +185,21 @@ There are several applications of this in different areas of life, such as-
 <br>
   * Below are few screenshots of the ***SCHEDAY*** application:
 </br>
+
 1.	SCHEDAY STARTING
     <BR>
       a. With default inputs
-      
   	![Image_1a](./SCHEDAY/Screenshots/Image_1a.png)
 
 	<BR>
      b. With user-defined inputs
-	      
+     
 	![Image_1b](./SCHEDAY/Screenshots/Image_1b.png)
 
-2.	SCHEDAY MENU
+3.	SCHEDAY MENU
    ![Image_3](./SCHEDAY/Screenshots/Image_2.png)
   	
-3.	NEW TASK
+4.	NEW TASK
     <BR>
       a. With default inputs
   	![Image_3a](./SCHEDAY/Screenshots/Image_3a.png)
