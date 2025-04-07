@@ -13,9 +13,10 @@
 <li> <a href="#a3"> Steps for Execution </a></li>
 <li> <a href="#a5">Screenshots</a></li>
 <li> <a href="#a4">Usage</a></li>
+<li> <a href="#a5">Final Outcome</a></li>
+<li> <a href="#a6">Expansion</a></li>
   <li> Objective </li>
-  <li> Final Outcome</li>
-  <li> Expansion</li>
+
 <a href="#end"><u><i>Skip to END...</i></u></a>
 </details>
 </br>
@@ -40,7 +41,7 @@
 
 
   
-* Features:
+### <b>Features:</b> 
   
     *	One can dynamically add new tasks.
     *	One can view pending task details as a list.
@@ -193,11 +194,7 @@ To build an ```efficient scheduler application``` which -
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
   
-## Usage
-There are several applications of this in different areas of life, such as-
-1.	To plan events or activities for any person or customer.
-2.	To schedule events for systems.
-3.	To help people plan and prioritize their work, etc...
+
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
@@ -248,21 +245,40 @@ There are several applications of this in different areas of life, such as-
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
    </br>
-  
-## Final outcome 
-The final outcome of scheday is-
-1. The application can be made web compatible.
-2. It can deployed on a real time website
-  * So that many people can use their time efficiently and productively
-  * This website will be easily accessible, feasible, and user-friendly
+<a name="a4"></a>
+## Usage
+
+<br>
+
+* ***SCHEDAY scheduler*** can be used for several applications in different areas of life.
+
+* To ***plan*** events or activities for any person or customer.
+
+* To ***schedule events*** for systems.
+
+* To help people ***plan and prioritize their work***, etc...
+
+
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
+  </br>
+
+  <a name="a5"></a> ## Final outcome 
+
+* The application can be made web compatible.
+* It can deployed on a real time website which would enable huge no. of people to plan and  use their time efficiently and productively.
+* This website will be easily accessible, feasible, and user-friendly
 
 <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
 
+   <a name="a6"></a> 
 ## Expansion
-This idea can be expanded in the following ways
+
+- ***SCHEDAY*** idea can be expanded in the following ways:
+
 1.	Deployed on a website In this way the user can schedule a task for his computer from remote locations
 2.	GUI can be added For making it wasy for the user to interpret this application
+3. Remaining unimplemented points in ideology can be implemented
 
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
