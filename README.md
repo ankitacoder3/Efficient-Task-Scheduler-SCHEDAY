@@ -63,7 +63,7 @@ The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following file
   - 2- ```'Screenshots' Directory```- contains Screenshots on various tasks from the SCHEDAY Application.
 </br>
 
-### <b>Repository Structure :</b> {ch}
+### <b>Repository Structure :</b> 
 
 <details>
   <summary color= blue ><u><b><i>Efficient-Task-Scheduler-SCHEDAY repo structure</i></b> click...</u></summary>
