@@ -55,24 +55,12 @@
 </br>
 
 
-### <b>Files :</b> {check}
+### <b>Files :</b> 
 The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following files:
   
-  - 1- ```'SCHEDAY.py'  File``- contains the SCHEDAY Application code.
+  - 1- ```'SCHEDAY.py'  File```- contains the SCHEDAY Application code.
     
   - 2- ```'Screenshots' Directory```- contains Screenshots on various tasks from the SCHEDAY Application.
-</br>
-
-<!--
-## Objective {Pending}
-To build an efficient scheduler application which -
-1.	Can accomodate new tasks
-2.	Has no job starvation
-3.	Starts any task within 2hours of its desired start time.
-4.	Can provide basic statistical and analytical report, such as jobs for day, capacity utilization for day, etc..
-
-  -->
-
 </br>
 
 ### <b>Repository Structure :</b> {ch}
@@ -115,27 +103,14 @@ To build an efficient scheduler application which -
 </br>
 
 
+## <b>Objective :</b> 
+To build an ```efficient scheduler application``` which -
+1.	Can accomodate <i>new tasks</i>
+2.	Has <i>no job starvation</i>
+3.	Starts any task within 2hours of its <i>desired start time</i>.
+4.	Can provide basic statistical and analytical <i>report</i>, such as jobs for day, capacity utilization for day, etc..
+</br>
 
-### <b>Underlying concepts / theory :</b> {check}
-
-  1.  **Inclusion of Image Processing Techniques**
-     
-      The project ```IMG-IMPACT``` involves the implementation of ```Image Processing Techniques```.
-
-  2.  **Manipulation of Images and Extraction of Insights**
-
-      Image processing entails the ```manipulation of images```to extract ```useful insights``` from them.
-
-  3.  **Representation of Images as Grids of Pixels**
-
-      Images can be represented as a ```grid of n x n small pieces```, which are called ```pixels```.
-
-  4.  **Numerical Representation of Image Pixels**
- 
-      If we can ```assign numbers to each colour```, then, the grid of pixels can be represented as a ```numerical matrix```.
-    
- ###
-###
 
 ###
 ###
