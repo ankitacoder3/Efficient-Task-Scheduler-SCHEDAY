@@ -183,6 +183,7 @@ To build an ```efficient scheduler application``` which -
 		iv. In ```"New Task Creation" panel or section```, for each field either press the ***'ENTER' KEY*** or input the ***<i> desired Value</i>*** in the same <i>'FORMAT' as shown by 'DEFAULT INPUT'</i>.
 
 		v. In ```"Task Deletion" panel or section```, for <i>"Enter the Task Number you want to delete (enter any whole no.):"</i>, enter ***any whole number*** for Task No. .
+<br>
 
   7. To view sample ***Screenshots*** of the ***SCHEDAY*** application, navigate to the ***"Screenshots" Directory*** and open any <b>Image</b> there. (For description of screenshots, <a href="#a5">click here</a>.) 
 
