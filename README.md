@@ -60,7 +60,7 @@ The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following file
   
   -  ```'SCHEDAY.py' File```- contains the ***'SCHEDAY' Application*** code.
     
-  - ```'Screenshots' Directory```- contains ***Screenshots*** on various tasks from the SCHEDAY Application.
+  - ```'Screenshots' Directory```- contains ***Screenshots on various tasks*** from the SCHEDAY Application.
 </br>
 
 ### <b>Repository Structure :</b> 
@@ -137,7 +137,7 @@ To build an ```efficient scheduler application``` which -
   git clone https://github.com/ankitacoder3/Efficient-Task-Scheduler-SCHEDAY.git 
   ```
 
- 2. Navigate to the ``` 'SCHEDAY' ``` Directory in that.
+ 2. Navigate to the ``` 'SCHEDAY' ``` directory in that.
     
   ```sh
   cd Efficient-Task-Scheduler-SCHEDAY
@@ -151,8 +151,8 @@ To build an ```efficient scheduler application``` which -
   ```sh
   python SCHEDAY.py
   ```
-  5. The ***SCHEDAY*** Application can be viewed on the COMMAND LINE interface.
-  6. <b>User Inputs</b> for the ***SCHEDAY*** Application are as follows:
+  5. The ***SCHEDAY*** application can be viewed on the COMMAND LINE interface.
+  6. <b>User Inputs</b> for the ***SCHEDAY*** application are as follows:
 
 		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press 'ENTER' KEY or any whole number.
 
@@ -187,46 +187,54 @@ There are several applications of this in different areas of life, such as-
 </br>
 
 1.	SCHEDAY STARTING
-    <BR>
+   
+     <BR>
+    
       a. With default inputs
   	![Image_1a](./SCHEDAY/Screenshots/Image_1a.png)
 
-	<BR>
+    <BR>
+    
      b. With user-defined inputs
-     
 	![Image_1b](./SCHEDAY/Screenshots/Image_1b.png)
 
 3.	SCHEDAY MENU
    ![Image_3](./SCHEDAY/Screenshots/Image_2.png)
   	
 4.	NEW TASK
+   
     <BR>
+    
       a. With default inputs
   	![Image_3a](./SCHEDAY/Screenshots/Image_3a.png)
 
-  	<BR>
+    <BR>
+   
       b. With user-defined inputs
-      
-    ![Image_3b](./SCHEDAY/Screenshots/Image_3b.png)
+   	 ![Image_3b](./SCHEDAY/Screenshots/Image_3b.png)
 
-   <BR>
+    <BR>
+    
       c. With hybrid input
-      
-![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
+         ![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
   	
 4.	PENDING TASK SUMMARY
+   
     <BR>
+    
       a. With default inputs
-  	![Image_4a](./SCHEDAY/Screenshots/Image_4a.png)
+  	 ![Image_4a](./SCHEDAY/Screenshots/Image_4a.png)
+
+    <BR>
   	
-5.	TASK DELETION
+6.	TASK DELETION
   	![Image_5](./SCHEDAY/Screenshots/Image_5.png)
    
-6.	EXITING SCHEDAY
-   ![Image_6](./SCHEDAY/Screenshots/Image_6.png)
+7.	EXITING SCHEDAY
+        ![Image_6](./SCHEDAY/Screenshots/Image_6.png)
 
-7.	TASK RESCHEDULING
-   ![Image_r1](./SCHEDAY/Screenshots/Image_r1.png)
+8.	TASK RESCHEDULING
+        ![Image_r1](./SCHEDAY/Screenshots/Image_r1.png)
 
 </br>
 
