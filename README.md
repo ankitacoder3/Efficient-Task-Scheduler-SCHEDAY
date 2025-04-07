@@ -58,7 +58,7 @@
 ### <b>Files :</b> 
 The ```Efficient-Task-Scheduler-SCHEDAY directory``` contains the following files:
   
-  -  ```'SCHEDAY.py' File```- contains the ***'SCHEDAY' application*** code.
+  - ```'SCHEDAY.py' File```- contains the ***'SCHEDAY' application*** code.
     
   - ```'Screenshots' Directory```- contains ***Screenshots on various tasks*** from the SCHEDAY application.
 </br>
