@@ -188,45 +188,31 @@ There are several applications of this in different areas of life, such as-
 
 1.	SCHEDAY STARTING
    
-     <BR>
-    
       a. With default inputs
   	![Image_1a](./SCHEDAY/Screenshots/Image_1a.png)
 
-    <BR>
-    
-     b. With user-defined inputs
+      b. With user-defined inputs
 	![Image_1b](./SCHEDAY/Screenshots/Image_1b.png)
 
-3.	SCHEDAY MENU
-   ![Image_3](./SCHEDAY/Screenshots/Image_2.png)
+2.	SCHEDAY MENU
+        ![Image_3](./SCHEDAY/Screenshots/Image_2.png)
   	
 4.	NEW TASK
-   
-    <BR>
     
       a. With default inputs
   	![Image_3a](./SCHEDAY/Screenshots/Image_3a.png)
-
-    <BR>
    
       b. With user-defined inputs
-   	 ![Image_3b](./SCHEDAY/Screenshots/Image_3b.png)
+        ![Image_3b](./SCHEDAY/Screenshots/Image_3b.png)
 
-    <BR>
-    
       c. With hybrid input
          ![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
   	
 4.	PENDING TASK SUMMARY
-   
-    <BR>
-    
+
       a. With default inputs
   	 ![Image_4a](./SCHEDAY/Screenshots/Image_4a.png)
 
-    <BR>
-  	
 6.	TASK DELETION
   	![Image_5](./SCHEDAY/Screenshots/Image_5.png)
    
