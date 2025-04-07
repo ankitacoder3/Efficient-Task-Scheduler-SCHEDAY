@@ -4,6 +4,7 @@
 ```Scheday``` is a complex ```scheduler```, implemented using the concepts of classes.
 
 <br>
+<li> Objective </li>
 
 <details open>
 
@@ -15,8 +16,6 @@
 <li> <a href="#a4">Usage</a></li>
 <li> <a href="#a5">Final Outcome</a></li>
 <li> <a href="#a6">Expansion</a></li>
-  <li> Objective </li>
-
 <a href="#end"><u><i>Skip to END...</i></u></a>
 </details>
 </br>
@@ -257,7 +256,7 @@ To build an ```efficient scheduler application``` which -
   </br>
 
 <a name="a5"></a>
-## Final outcome 
+## Final Outcome 
 
 <br>
 
@@ -284,4 +283,4 @@ To build an ```efficient scheduler application``` which -
   </br>
   
 <a name="end"></a>
-Thank you for exploring the SCHEDAY project. Happy Task Scheduling using ***SCHEDAY*** !
+Thank you for exploring the SCHEDAY project. Happy Task Scheduling using ***SCHEDAY*** ! ✔
