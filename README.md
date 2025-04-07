@@ -124,8 +124,8 @@ To build an ```efficient scheduler application``` which -
 <a name="a2"></a>
 ## Prerequisites and Techstack
 
-<br>
-    
+ <br>
+ 
   * Language :
 
     **Python**
@@ -146,8 +146,6 @@ To build an ```efficient scheduler application``` which -
    Various languages such as python, c, html, react, etc... can be used to implement scheday.
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
-  
-  
 
 <a name="a3"></a> 
 ## Steps for Execution
@@ -193,14 +191,11 @@ To build an ```efficient scheduler application``` which -
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
-  
-
-
-  <p align="right"><a href="#readme-top">Back to TOP</a></p>
-  </br>
 
    <a name="a5"></a> 
 ## Screenshots
+
+<br>
 
   * Below are few screenshots of the ***SCHEDAY*** application:
 
@@ -244,7 +239,7 @@ To build an ```efficient scheduler application``` which -
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
-   </br>
+  
 <a name="a4"></a>
 ## Usage
 
@@ -258,12 +253,13 @@ To build an ```efficient scheduler application``` which -
 
 * To help people ***plan and prioritize their work***, etc...
 
-
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
-  <a name="a5"></a>
+<a name="a5"></a>
 ## Final outcome 
+
+<br>
 
 * The application can be made ***web compatible***.
 * It can deployed on a ***real time website*** which would enable huge no. of people to plan and  use their time efficiently and productively.
@@ -272,8 +268,10 @@ To build an ```efficient scheduler application``` which -
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
-   <a name="a6"></a> 
+<a name="a6"></a> 
 ## Expansion
+
+<br>
 
 - ***SCHEDAY*** idea can be expanded in the following ways:
 
