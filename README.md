@@ -49,7 +49,7 @@
   
     *	At a time thousand tasks can be run.
   
-     *	Tasks can also be executed from a csv wherein it reads each and every task and executes them.
+    *	Tasks can also be executed from a csv wherein it reads each and every task and executes them.
   
 
 </br>
@@ -58,7 +58,7 @@
 ### <b>Files :</b> 
 The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following files:
   
-  - 1- ```'SCHEDAY.py'  File```- contains the SCHEDAY Application code.
+  - 1- ```'SCHEDAY.py' File```- contains the 'SCHEDAY' Application code.
     
   - 2- ```'Screenshots' Directory```- contains Screenshots on various tasks from the SCHEDAY Application.
 </br>
@@ -78,7 +78,7 @@ The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following file
     │   ├── SCHEDAY.py              # Application
     │   │     
     │   │ 
-    │   ├── Screenshots/            # Screenshots-Folder              # 
+    │   ├── Screenshots/            # Screenshots-Folder              
     │   │    ├── Image_1a.png
     │   │    ├── Image_1b.png
     │   │    ├── Image_2.png
@@ -130,8 +130,6 @@ To build an ```efficient scheduler application``` which -
 ## Steps for Execution
 
 <br>
-
-## Steps for Execution
  1. Clone the ``` 'Efficient-Task-Scheduler-SCHEDAY' ``` github repository.
   ```sh 
   git clone https://github.com/ankitacoder3/Efficient-Task-Scheduler-SCHEDAY.git 
@@ -141,14 +139,28 @@ To build an ```efficient scheduler application``` which -
   cd Efficient-Task-Scheduler-SCHEDAY
   cd SCHEDAY
   ```
-  3. Open the ```SCHEDAY.py``` in python idle or terminal.  
+  3. Open the ```SCHEDAY.py``` in any code editor (say, VS Code). 
   <br>
 
-  4. Run ``` SCHEDAY.py``` by selecting the ```run option``` in python idle, or by using the command prompt.
+  4. Run ``` SCHEDAY.py``` from the ***Command Prompt*** or the ***Terminal***.
   ```sh
   python SCHEDAY.py
   ```
-  5. Output can be viewed on the SHELL (for python idle), or COMMAND LINE interface (for command prompt).
+  5. The ***SCHEADAY*** Application can be viewed on the COMMAND LINE interface.
+  6. <b>User Inputs</b> for the ***SCHEDAY*** Application are as follows:
+
+		i. For "Enter reschedule time (in mins) (default: 2 (mins)) :", press 'ENTER' KEY or any whole number.
+		ii. For "Enter starve time (in mins) (default: 3 (mins)) : ", press 'ENTER' KEY or any whole number.
+
+        iii. Follow the SCHEDAY MENU to create, view and delete <i>TASKS</i>; By entering the corresponding option for each in the "Your choice:" input.
+
+		iv. In "New Task Creation" panel or section, for each field either press the 'ENTER' KEY or input the <i> desired Value</i> in the same 'FORMAT' as shown by 'DEFAULT INPUT'.
+
+		v. In "Task Deletion" panel or section, for "Enter the Task Number you want to delete (enter any whole no.):", enter any whole number for Task No. .
+
+  7. To view sample ***Screenshots*** of the ***SCHEDAY*** Application, navigate to the ***"Screenshots" Directory*** and open any Image there. (For description of screenshots, <a href="#a5">click here</a>.) 
+
+  * Note: 'SCHEDAY.py' can also be run from the <i>python idle</i> by selecting the 'run module' option, and output can be viewed in the IDLE SHELL.
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
