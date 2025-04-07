@@ -182,7 +182,7 @@ There are several applications of this in different areas of life, such as-
 
    <a name="a5"></a> 
 ## Screenshots
-<br>
+S
   * Below are few screenshots of the ***SCHEDAY*** application:
 </br>
 
@@ -222,7 +222,6 @@ There are several applications of this in different areas of life, such as-
 8.	TASK RESCHEDULING
         ![Image_r1](./SCHEDAY/Screenshots/Image_r1.png)
 
-</br>
 
   * Other screenschots can be found in the ```"./SCHEDAY/Screenshots/"``` folder.
   * & Much More...
