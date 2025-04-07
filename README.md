@@ -91,9 +91,9 @@ The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following file
     │   │    ├── Image_6.png
     │   │    ├── Image_r1.png
     │   │    ├── Image_r2.png     
-    │   │    └── # 
+    │   │    └──# 
     │   │ 
-    │   └── #
+    │   └──#
     │   
     └─── README.md           # Repository README
     
@@ -103,11 +103,11 @@ The ```Efficient-Task-Scheduler-SCHEDAY Directory``` contains the following file
 </br>
 
 
-## <b>Objective :</b> 
+### <b>Objective :</b> 
 To build an ```efficient scheduler application``` which -
 1.	Can accomodate <i>new tasks</i>
 2.	Has <i>no job starvation</i>
-3.	Starts any task within 2hours of its <i>desired start time</i>.
+3.	Starts any task within 2 hours of its <i>desired start time</i>.
 4.	Can provide basic statistical and analytical <i>report</i>, such as jobs for day, capacity utilization for day, etc..
 </br>
 
@@ -126,8 +126,13 @@ To build an ```efficient scheduler application``` which -
 <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
 
+<a name="a3"></a> 
 ## Steps for Execution
- 1. Clone the ``` 'Scheduler-SCHEDAY' ``` github repository.
+
+<br>
+
+## Steps for Execution
+ 1. Clone the ``` 'Efficient-Task-Scheduler-SCHEDAY' ``` github repository.
   ```sh 
   git clone https://github.com/ankitacoder3/Efficient-Task-Scheduler-SCHEDAY.git 
   ```
@@ -137,14 +142,15 @@ To build an ```efficient scheduler application``` which -
   cd SCHEDAY
   ```
   3. Open the ```SCHEDAY.py``` in python idle or terminal.  
+  <br>
 
   4. Run ``` SCHEDAY.py``` by selecting the ```run option``` in python idle, or by using the command prompt.
   ```sh
   python SCHEDAY.py
   ```
-5. Output can be viewed on the SHELL (for python idle), or COMMAND LINE interface (for command prompt).
+  5. Output can be viewed on the SHELL (for python idle), or COMMAND LINE interface (for command prompt).
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
   
 ## Usage
@@ -154,10 +160,13 @@ There are several applications of this in different areas of life, such as-
 3.	To help people plan and prioritize their work, etc...
 
    <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
+   <a name="a5"></a> 
 ## Screenshots
-Below are few screenshots of the SCHEDAY application:
+<br>
+  * Below are few screenshots of the ***SCHEDAY*** application:
 </br>
 1.	SCHEDAY STARTING
     <BR>
@@ -185,7 +194,7 @@ Below are few screenshots of the SCHEDAY application:
    <BR>
       c. With hybrid input
       
-  ![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
+    ![Image_3c](./SCHEDAY/Screenshots/Image_3c.png)
   	
 4.	PENDING TASK SUMMARY
     <BR>
@@ -203,12 +212,12 @@ Below are few screenshots of the SCHEDAY application:
 
 </br>
 
-Other screenschots can be found in the ```"./SCHEDAY/Screenshots/"``` folder.
-</br>
+  * Other screenschots can be found in the ```"./SCHEDAY/Screenshots/"``` folder.
+  * & Much More...
 
-
-   <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
+   </br>
   
 ## Final outcome 
 The final outcome of scheday is-
@@ -226,5 +235,8 @@ This idea can be expanded in the following ways
 2.	GUI can be added For making it wasy for the user to interpret this application
 
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
+  
+<a name="end"></a>
+Thank you for exploring the SCHEDAY project.
