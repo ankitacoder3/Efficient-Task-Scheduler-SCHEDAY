@@ -181,11 +181,11 @@ To build an ```efficient scheduler application``` which -
 
 		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press ***'ENTER' KEY*** or ***enter any whole number***.
 
-        iii. Follow the ```***SCHEDAY MENU***``` to <i>create, view and delete TASKS</i>; By ***entering the corresponding option*** for each in the ```"Your choice:" ```input.
+        iii. Follow the ```***SCHEDAY MENU***``` to <i>create, view and delete TASKS</i>; By ***entering the 'corresponding option'*** for each parameter in the ```"Your choice:" ```input.
 
-		iv. In ```"New Task Creation" panel or section```, for each field either press the 'ENTER' KEY or input the <i> desired Value</i> in the same 'FORMAT' as shown by 'DEFAULT INPUT'.
+		iv. In ```"New Task Creation" panel or section```, for each field either press the ***'ENTER' KEY*** or input the ***<i> desired Value</i>*** in the same <i>'FORMAT' as shown by 'DEFAULT INPUT'</i>.
 
-		v. In ```"Task Deletion" panel or section```, for "Enter the Task Number you want to delete (enter any whole no.):", enter any whole number for Task No. .
+		v. In ```"Task Deletion" panel or section```, for <i>"Enter the Task Number you want to delete (enter any whole no.):"</i>, enter ***any whole number*** for Task No. .
 
   7. To view sample ***Screenshots*** of the ***SCHEDAY*** application, navigate to the ***"Screenshots" Directory*** and open any <b>Image</b> there. (For description of screenshots, <a href="#a5">click here</a>.) 
 
@@ -262,13 +262,14 @@ To build an ```efficient scheduler application``` which -
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
-  <a name="a5"></a> ## Final outcome 
+  <a name="a5"></a>
+## Final outcome 
 
-* The application can be made web compatible.
-* It can deployed on a real time website which would enable huge no. of people to plan and  use their time efficiently and productively.
-* This website will be easily accessible, feasible, and user-friendly
+* The application can be made ***web compatible***.
+* It can deployed on a ***real time website*** which would enable huge no. of people to plan and  use their time efficiently and productively.
+* This website will be <i>easily accessible, feasible, and user-friendly</i>.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
    <a name="a6"></a> 
@@ -276,13 +277,13 @@ To build an ```efficient scheduler application``` which -
 
 - ***SCHEDAY*** idea can be expanded in the following ways:
 
-1.	Deployed on a website In this way the user can schedule a task for his computer from remote locations
-2.	GUI can be added For making it wasy for the user to interpret this application
-3. Remaining unimplemented points in ideology can be implemented
+1.	Deployed on a ***website*** In this way the user can schedule a task for his computer from remote locations.
+2.	***GUI*** can be added For making it wasy for the user to interpret this application
+3. Remaining ***unimplemented points in ideology*** can be implemented.
 
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
   
 <a name="end"></a>
-Thank you for exploring the SCHEDAY project.
+Thank you for exploring the SCHEDAY project. Happy Task Scheduling using ***SCHEDAY*** !
