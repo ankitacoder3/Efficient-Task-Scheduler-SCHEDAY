@@ -175,9 +175,9 @@ To build an ```efficient scheduler application``` which -
   5. The ***SCHEDAY*** application can be viewed on the ***COMMAND LINE*** interface.
   6. <b>User Inputs</b> for the ***SCHEDAY*** application are as follows:
 
-		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press 'ENTER' KEY or any whole number.
+		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press <i>'ENTER' KEY</i> or <i>any whole number</i>.
 
-		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press <i> 'ENTER' KEY </i> or <i>any whole number</i>.
+		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press ***'ENTER' KEY*** or ***any whole number***.
 
         iii. Follow the ```***SCHEDAY MENU***``` to <i>create, view and delete TASKS</i>; By entering the corresponding ***option*** for each in the ```"Your choice:" ```input.
 
@@ -187,7 +187,7 @@ To build an ```efficient scheduler application``` which -
 
   7. To view sample ***Screenshots*** of the ***SCHEDAY*** application, navigate to the ***"Screenshots" Directory*** and open any <b>Image</b> there. (For description of screenshots, <a href="#a5">click here</a>.) 
 
-  * Note: 'SCHEDAY.py' can also be run from the <i>python idle</i> by selecting the 'run module' option, and output can be viewed in the <i>IDLE SHELL</i>.
+  * Note: The <i>SCHEDAY</i> application can also be run from the <i>python idle</i> by selecting the <i>'run module'</i> option, and output can be viewed in the <i>IDLE SHELL</i>.
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
