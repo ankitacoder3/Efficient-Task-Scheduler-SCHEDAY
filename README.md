@@ -283,4 +283,4 @@ To build an ```efficient scheduler application``` which -
   </br>
   
 <a name="end"></a>
-Thank you for exploring the SCHEDAY project. Happy Task Scheduling using ***SCHEDAY*** ! ✔
+Thank you for exploring the SCHEDAY project. Happy Task Scheduling using ***SCHEDAY***! 📋✔
