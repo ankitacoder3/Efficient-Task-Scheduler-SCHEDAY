@@ -130,7 +130,8 @@ To build an ```efficient scheduler application``` which -
 ## Steps for Execution
 
 <br>
- 1. Clone the ``` 'Efficient-Task-Scheduler-SCHEDAY' ``` github repository.
+
+ 1. Clone the ```'Efficient-Task-Scheduler-SCHEDAY'``` github repository.
  
   ```sh 
   git clone https://github.com/ankitacoder3/Efficient-Task-Scheduler-SCHEDAY.git 
@@ -153,15 +154,15 @@ To build an ```efficient scheduler application``` which -
   5. The ***SCHEDAY*** Application can be viewed on the COMMAND LINE interface.
   6. <b>User Inputs</b> for the ***SCHEDAY*** Application are as follows:
 
-		i. For <i>"Enter reschedule time (in mins) (default: 2 (mins)) :"</i>, press 'ENTER' KEY or any whole number.
+		i. For ```"Enter reschedule time (in mins) (default: 2 (mins)) :"```, press 'ENTER' KEY or any whole number.
 
-		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press 'ENTER' KEY or any whole number.
+		ii. For ```"Enter starve time (in mins) (default: 3 (mins)) :"```, press <i> 'ENTER' KEY </i> or <i>any whole number</i>.
 
-        iii. Follow the SCHEDAY MENU to create, view and delete <i>TASKS</i>; By entering the corresponding option for each in the "Your choice:" input.
+        iii. Follow the ```***SCHEDAY MENU***``` to <i>create, view and delete TASKS</i>; By entering the corresponding ***option*** for each in the ```"Your choice:" ```input.
 
-		iv. In "New Task Creation" panel or section, for each field either press the 'ENTER' KEY or input the <i> desired Value</i> in the same 'FORMAT' as shown by 'DEFAULT INPUT'.
+		iv. In ```"New Task Creation" panel or section```, for each field either press the 'ENTER' KEY or input the <i> desired Value</i> in the same 'FORMAT' as shown by 'DEFAULT INPUT'.
 
-		v. In "Task Deletion" panel or section, for "Enter the Task Number you want to delete (enter any whole no.):", enter any whole number for Task No. .
+		v. In ```"Task Deletion" panel or section```, for "Enter the Task Number you want to delete (enter any whole no.):", enter any whole number for Task No. .
 
   8. To view sample ***Screenshots*** of the ***SCHEDAY*** Application, navigate to the ***"Screenshots" Directory*** and open any Image there. (For description of screenshots, <a href="#a5">click here</a>.) 
 
