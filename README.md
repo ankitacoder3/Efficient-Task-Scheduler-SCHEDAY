@@ -140,8 +140,9 @@ To build an ```efficient scheduler application``` which -
 
 <br>
 
- * Alternative Languages :
-				* Various languages such as python, c, html, react, etc... can be used to implement scheday
+ * Alternative techstack :
+
+   Various languages such as python, c, html, react, etc... can be used to implement scheday.
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
   
