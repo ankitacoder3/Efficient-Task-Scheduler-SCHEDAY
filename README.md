@@ -43,7 +43,7 @@
 * Features:
   
     *	One can dynamically add new tasks.
- *	One can view pending task details as a list.
+    *	One can view pending task details as a list.
   
     *	Tasks can be entered on this.
   
