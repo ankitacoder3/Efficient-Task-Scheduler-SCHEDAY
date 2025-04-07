@@ -143,14 +143,14 @@ To build an ```efficient scheduler application``` which -
   cd SCHEDAY
   ```
 
-  3. Open the ```SCHEDAY.py``` in any code editor (say, VS Code). 
+  3. Open the ```SCHEDAY.py``` in any code editor (say, ***VS Code***). 
   <br>
 
   4. Run ``` SCHEDAY.py``` from the ***Command Prompt*** or the ***Terminal***.
   ```sh
   python SCHEDAY.py
   ```
-  5. The ***SCHEADAY*** Application can be viewed on the COMMAND LINE interface.
+  5. The ***SCHEDAY*** Application can be viewed on the COMMAND LINE interface.
   6. <b>User Inputs</b> for the ***SCHEDAY*** Application are as follows:
 
 		i. For "Enter reschedule time (in mins) (default: 2 (mins)) :", press 'ENTER' KEY or any whole number.
@@ -175,7 +175,6 @@ There are several applications of this in different areas of life, such as-
 2.	To schedule events for systems.
 3.	To help people plan and prioritize their work, etc...
 
-   <p align="right"><a href="#readme-top">back to top</a></p>
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
