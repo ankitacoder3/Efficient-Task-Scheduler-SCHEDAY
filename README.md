@@ -31,34 +31,35 @@
 ### <b>Ideology :</b> 
 The ```scheduler``` has the following properties:
 
-    *	***New jobs***- When NEW jobs are added it is added to the scheduler 'SCHEDAYC, they are put in a ***waiting list***.
+*	***New jobs***- When NEW jobs are added it is added to the scheduler 'SCHEDAYC, they are put in a ***waiting list***.
 
-    *	***Rescheduling***- After a certain time, say 'reschedule time' the scheduler 'SCHEDAY' reschedules all the jobs, except the current running job.
-    That is all jobs in the scheduler plus the jobs in waiting list are rescheduled (with the exception of the current running job).
-    This 'reschedule time' can be 5min Or 2min , according to user requirements.
+*	***Rescheduling***- After a certain time, say 'reschedule time' the scheduler 'SCHEDAY' reschedules all the jobs, except the current running job.
+That is all jobs in the scheduler plus the jobs in waiting list are rescheduled (with the exception of the current running job).
+This 'reschedule time' can be 5min Or 2min , according to user requirements.
 
-    *	***Priority*** - Based on the desired start time, the job has to be started within 2 hrs of that. Based on this priority is given by SCHEDAY.
-      While processing this 'task completion time' is also taken into account.
+*	***Priority*** - Based on the desired start time, the job has to be started within 2 hrs of that. Based on this priority is given by SCHEDAY.
+While processing this 'task completion time' is also taken into account.
 
-    *	***Starvation***- After a certain amount of time, say 'starve time' the jobs are reviewed and rescheduled accordingly, to avoid task starvation.
-    In this review, the last job in the SCHEDAY waiting list is rescheduled, in between of the jobs, before its desired start time taking into account the completion time of task.
-    After every 'starve time' this review occurs. The 'starve time' can be say 10min Or 5min , depending on user input or no. of tasks etc.
+*	***Starvation***- After a certain amount of time, say 'starve time' the jobs are reviewed and rescheduled accordingly, to avoid task starvation.
+In this review, the last job in the SCHEDAY waiting list is rescheduled, in between of the jobs, before its desired start time taking into account the completion time of task.
+After every 'starve time' this review occurs. The 'starve time' can be say 10min Or 5min , depending on user input or no. of tasks etc.
 
-    *	***Analysis***- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
-      From this csv Or excel required data is got and analysed by a code, which gives output as basic reports
- </br>
+*	***Analysis***- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
+From this csv Or excel required data is got and analysed by a code, which gives output as basic reports.
+
+</br>
 
 ### <b>Features:</b> 
 
-    *	One can ***dynamically add new*** tasks.
+*	One can ***dynamically add new*** tasks.
 
-    *	One can ***view pending task details*** as a list.
-  
-    *	One can ***delete any task***, by providing its task-id.
-  
-    *	At a time ***more than one task*** can be run.
-  
-    *	Tasks can also be ***executed from a csv***, wherein ```SCHEDAY``` reads each and every task and executes them.
+*	One can ***view pending task details*** as a list.
+
+*	One can ***delete any task***, by providing its task-id.
+
+*	At a time ***more than one task*** can be run.
+
+*	Tasks can also be ***executed from a csv***, wherein ```SCHEDAY``` reads each and every task and executes them.
   
 </br>
 
