@@ -12,46 +12,54 @@
 <li> <a href="#a1">Introduction</a></li>
 <li> <a href="#a2"> Prerequisites and Techstack</a></li>
 <li> <a href="#a3"> Steps for Execution </a></li>
-<li> <a href="#a5">Screenshots</a></li>
-<li> <a href="#a4">Usage</a></li>
-<li> <a href="#a5">Final Outcome</a></li>
-<li> <a href="#a6">Expansion</a></li>
+<li> <a href="#a4">Screenshots</a></li>
+<li> <a href="#a5">Usage</a></li>
+<li> <a href="#a6">Final Outcome</a></li>
+<li> <a href="#a7">Expansion</a></li>
 <a href="#end"><u><i>Skip to END...</i></u></a>
 </details>
 </br>
 
 <a name="a1"></a>
 ## Introduction
-* The name of this idea is "Scheday" which stands for 'Scheduler for the day'. (ie, for any day it gives maximum value )
-* The scheduler has the following properties-
-    *	New jobs - As and when new jobs are added it is added to a waiting list.
-    *	Rescheduling- After a certain time, say 'reschedule time' the scheduler reschedules all the jobs, except the current running job.
+
+* The name of this repo is ```'SCHEDAY'``` which stands for ```'Scheduler for the Day'```. 
+* ```SCHEDAY``` is an ```'Efficient-Task-Scheduler'```.
+* ```SCHEDAY``` aids in bringing out the best value for any day.
+
+
+### <b>Ideology :</b> 
+The ```scheduler``` has the following properties:
+
+    *	***New jobs***- When NEW jobs are added it is added to the scheduler 'SCHEDAYC, they are put in a ***waiting list***.
+
+    *	***Rescheduling***- After a certain time, say 'reschedule time' the scheduler 'SCHEDAY' reschedules all the jobs, except the current running job.
     That is all jobs in the scheduler plus the jobs in waiting list are rescheduled (with the exception of the current running job).
     This 'reschedule time' can be 5min Or 2min , according to user requirements.
-    *	Priority - Based on the desired start time, the job has to be started within 2 hrs of that. Based on this priority is given.
-      While taking care of this completion time is also kept in mind.
-    *	Starvation- After a certain amount of time, say 'starve time' the jobs are reviewed.
-    In this review,the job that will execute last is rescheduled in between of the jobs before it depending on the desired start time and completion time.
-    After every 'starve time' this review occurs. 'starve time' can be say 10min Or 5min , depending on no of tasks etc.
-    *	Analysis- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
+
+    *	***Priority*** - Based on the desired start time, the job has to be started within 2 hrs of that. Based on this priority is given by SCHEDAY.
+      While processing this 'task completion time' is also taken into account.
+
+    *	***Starvation***- After a certain amount of time, say 'starve time' the jobs are reviewed and rescheduled accordingly, to avoid task starvation.
+    In this review, the last job in the SCHEDAY waiting list is rescheduled, in between of the jobs, before its desired start time taking into account the completion time of task.
+    After every 'starve time' this review occurs. The 'starve time' can be say 10min Or 5min , depending on user input or no. of tasks etc.
+
+    *	***Analysis***- All of these tasks, their start time, completion time, desired start time, if the task is completed etc is stored in a csv Or excel.
       From this csv Or excel required data is got and analysed by a code, which gives output as basic reports
-  </br>
+ </br>
 
-
-
-  
 ### <b>Features:</b> 
-  
-    *	One can dynamically add new tasks.
-    *	One can view pending task details as a list.
-  
-    *	Tasks can be entered on this.
-  
-    *	At a time thousand tasks can be run.
-  
-    *	Tasks can also be executed from a csv wherein it reads each and every task and executes them.
-  
 
+    *	One can ***dynamically add new*** tasks.
+
+    *	One can ***view pending task details*** as a list.
+  
+    *	One can ***delete any task***, by providing its task-id.
+  
+    *	At a time ***more than one task*** can be run.
+  
+    *	Tasks can also be ***executed from a csv***, wherein ```SCHEDAY``` reads each and every task and executes them.
+  
 </br>
 
 
@@ -192,7 +200,7 @@ To build an ```efficient scheduler application``` which -
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
-   <a name="a5"></a> 
+   <a name="a4"></a> 
 ## Screenshots
 
 <br>
@@ -240,7 +248,7 @@ To build an ```efficient scheduler application``` which -
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
   
-<a name="a4"></a>
+<a name="a5"></a>
 ## Usage
 
 <br>
@@ -256,7 +264,7 @@ To build an ```efficient scheduler application``` which -
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
-<a name="a5"></a>
+<a name="a6"></a>
 ## Final Outcome 
 
 <br>
@@ -268,7 +276,7 @@ To build an ```efficient scheduler application``` which -
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
   </br>
 
-<a name="a6"></a> 
+<a name="a7"></a> 
 ## Expansion
 
 <br>
