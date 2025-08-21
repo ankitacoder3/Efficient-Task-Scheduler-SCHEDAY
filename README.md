@@ -31,7 +31,7 @@
 ### <b>Ideology :</b> 
 The ```scheduler``` has the following properties:
 
-*	***New jobs***- When NEW jobs are added it is added to the scheduler 'SCHEDAYC, they are put in a ***waiting list***.
+*	***New jobs***- When NEW jobs are added it is added to the scheduler 'SCHEDAY', they are put in a ***waiting list***.
 
 *	***Rescheduling***- After a certain time, say 'reschedule time' the scheduler 'SCHEDAY' reschedules all the jobs, except the current running job.
 That is all jobs in the scheduler plus the jobs in waiting list are rescheduled (with the exception of the current running job).
